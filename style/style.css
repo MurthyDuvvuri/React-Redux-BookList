@@ -1,0 +1,58 @@
+body
+{
+	padding-left: 20%;
+	padding-right:20%;
+}
+
+.list-group
+{
+	margin-top:20px;	
+	border-radius: 10px;
+	
+	align-items: center;
+	/*margin-top:20px;
+	height:500px;
+	background-color: lightgrey	;*/
+	
+	
+}
+
+.list-group-item
+{
+	background-color: lightgrey;
+	border:1px solid black;
+	align-content: center;
+
+	
+}
+
+.list-group-item:hover
+{
+
+	background-color: darkgrey;
+
+	
+
+}
+
+
+.bookdetail,.bookdetail1
+{
+	margin-top:20px;
+	margin-left: 20px;
+	border:1px solid black;
+	float:left;
+	border-radius: 10px;
+	width:550px;
+	height:500px;
+	text-align: center;
+	padding:150px;
+	background-color: lightgrey;
+
+}
+
+/*.bookdetail1
+{
+	float:left;
+	border-radius: 10px;
+}*/
